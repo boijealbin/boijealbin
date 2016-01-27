@@ -1,0 +1,29 @@
+# Folders #
+###########
+alias/
+apps/
+lang/
+logs/
+scripts/
+tmp/
+tools/
+vhosts/
+*error/
+*logs/
+
+# Files #
+#########
+barimage.bmp
+images_off.bmp
+images_on.bmp
+license.txt
+unins000.dat
+uninstall_services.bat
+wampmanager.tpl
+bin/mysql/mysql5.7.9/bin/mysqld.pdb
+
+# File types#
+#############
+*.err
+*.log
+*.exe
